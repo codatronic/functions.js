@@ -1,3 +1,5 @@
+var fjsmsg = 'This webpage is running functions.js vDEV by codatronic @ https://github.com/codatronic/functions.js'
+console.log(fjsmsg)
 function namealert(name,last)
 {
 alert("Welcome " + name + " " + last);
