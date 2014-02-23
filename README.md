@@ -1,6 +1,6 @@
 functions.js v1.0
 ===================
-### created by [codatronic](codatronic.github.io)
+### created by [codatronic](http://codatronic.github.io)
 To view a list of all functions see the [wiki.](https://github.com/codatronic/functions.js/wiki) If you want to embed this in your webpage simply paste the following code in the `<head>` tag of the webpage:
 `<script src="https://raw2.github.com/codatronic/functions.js/v1.0/fjs10.js"></script>`
 -------
