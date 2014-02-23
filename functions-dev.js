@@ -12,3 +12,8 @@ function writeto(id,text)
 {
 document.getElementById(id).innerHTML = text;
 }
+
+function r(address)
+{
+goto(address);
+}
