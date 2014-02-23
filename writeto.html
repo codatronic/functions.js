@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script src="functions-dev.js"></script>
+<script>
+    function exewriteto()
+    {
+    var fname = document.getElementById("myText").value;
+    var lname = document.getElementById("myId").value;
+    writeto(lname,fname)
+    }
+    </script>
+    <form>
+Replace with: <input type="text" id="myText" name="textto" value="HI"><br>
+ID:        <input type="text" id="myId" name="textid" value="hithere">
+</form>
+    <p id='hithere'>My id is hithere</p>
+    <p id='otherhithere'>My id is otherhithere</p>
+    <button type="button" onclick="exewriteto()">writeto()</button>
+    
+    </body>
+</html>
