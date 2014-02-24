@@ -18,9 +18,3 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-In addition, whenever the Software loads on the webpage, a message is shown in the console that says:
-
-### "This webpage is running functions.js v1.0 by codatronic @ https://github.com/codatronic/functions.js"
-
-You are not allowed to remove the above message from the code because the license prohibits using the Software without the permission notice.
